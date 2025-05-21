@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Aplicación tipo Canva",
-    des: "Una aplicación REAL de Software como Servicio con funciones de IA y un sistema de pagos y créditos utilizando la última tecnología.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Learn IA",
+    des: "Una web de formación en IA.",
+    img: "/p1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/php.svg"],
+    link: "https://github.com/agchdev/PeakyBlinders",
   },
   {
     id: 4,

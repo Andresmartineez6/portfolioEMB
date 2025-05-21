@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "EMB Portfolio",
   description: "Nuestros proyectos y acerca de nosotros",
 };
-
+//
 export default function RootLayout({
   children,
 }: Readonly<{

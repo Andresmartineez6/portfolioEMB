@@ -77,7 +77,7 @@ export const projects = [
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://github.com/agchdev/PeakyBlinders",
-    videoUrl: "https://www.youtube.com/embed/ad2kRJL0Y7U?si=SuEzKTfCtc_EQsik",
+    videoUrl: "https://www.youtube.com/embed/CJH7f12ob1I",
     client: "BBC Entertainment",
     year: "2023",
     category: "Entretenimiento",
